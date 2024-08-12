@@ -11,10 +11,10 @@ if(nivel === 'normal'){
     //1500
     criaMosquitoTempo = 1500
 }else if(nivel === 'dificil'){
-    //1000
+    tempo = 20
     criaMosquitoTempo = 1000
 }else if(nivel === 'hardcore'){
-    //750
+    tempo = 13
     criaMosquitoTempo = 750
 }
 
